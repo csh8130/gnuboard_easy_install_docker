@@ -1,0 +1,6 @@
+ubuntu
+
+apt-get update
+apt-get install docker.io
+sudo su
+docker-compose up
