@@ -1,6 +1,13 @@
-ubuntu
+#ubuntu install cmd
 
 apt-get update
 apt-get install docker.io
 sudo su
 docker-compose up
+
+#default install config
+
+# mysql HOST : db (not localhost)
+# mysql User : root
+# mysql root password : mysql
+# DB : mysql
